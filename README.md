@@ -10,7 +10,6 @@
   <a href="https://github.com/tafimofficial">
     <img src="https://img.shields.io/badge/GitHub-tafimofficial-181717?style=for-the-badge&logo=github" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Bangladesh-006A4E?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Always_Learning-00C896?style=for-the-badge" />
 </p>
 
